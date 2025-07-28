@@ -51,7 +51,7 @@
 
 1. **下載專案**
 ```bash
-git clone <repository-url>
+git clone https://github.com/yukirt/pomodoro-timer.git
 cd pomodoro-timer
 ```
 
@@ -123,7 +123,7 @@ make clean                # 清理容器與映像檔
 
 1. **下載專案**
 ```bash
-git clone <repository-url>
+git clone https://github.com/yukirt/pomodoro-timer.git
 cd pomodoro-timer
 ```
 
@@ -761,9 +761,9 @@ pomodoro-timer/
 ## 📞 支援與回饋
 
 如果您在使用過程中遇到問題或有建議，請：
-- 提交 [Issue](../../issues)
-- 發送郵件至 [your-email@example.com]
-- 查看 [Wiki](../../wiki) 取得更多協助
+- 提交 [Issue](https://github.com/yukirt/pomodoro-timer/issues)
+- 查看 [Wiki](https://github.com/yukirt/pomodoro-timer/wiki) 取得更多協助
+- 在 [Discussions](https://github.com/yukirt/pomodoro-timer/discussions) 中參與交流
 
 ---
 
